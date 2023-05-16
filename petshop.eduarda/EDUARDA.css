@@ -1,0 +1,67 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+
+
+header{
+
+    background-color: #717DEB;
+    
+
+
+}
+
+.container{
+
+    justify-content: space-evenly;
+    flex-direction: row;
+    display: flex;
+    text-align: 20px 10px 20px 10px;
+    color: #fff;
+}
+
+
+.menu{
+
+    text-align: center;
+    justify-content: center;
+    background-color: #717DEB;
+    border: 1px solid white;
+    color: #fff;
+
+
+}
+
+.elemento{
+
+    justify-content: center;
+    text-align: center;
+}
+
+a.href{
+
+    background-color: #fff;
+    color: white; 
+    font-size: 15px;
+}
+
+button{
+
+
+    background-color: #fff;
+    border:none;
+    padding: 15px;
+    width: 100px;
+    border-radius:10px;
+    color: #fff;
+    font-size: 15px;
+}
+
+
+h1{
+
+    font-size: color#fff;
+
+}
